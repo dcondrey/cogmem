@@ -1,5 +1,22 @@
 {
   "recall_floor": 0.55,
   "recall_gap": 6.0,
-  "provenance_enforce": false
+  "provenance_enforce": false,
+  "keychain": false,
+  "user_name": "David",
+  "witness_did": "did:key:z6MkuFtEqTBeEYxSWVVeeY97fFda7ndrKctZYTbAnPYMiwRu",
+  "models": {
+    "detect": "claude-haiku-4-5-20251001",
+    "extract": "claude-sonnet-4-6",
+    "judge": "claude-haiku-4-5-20251001",
+    "consolidate": "claude-sonnet-4-6",
+    "selfmodel": "claude-sonnet-4-6",
+    "projectstate": "claude-sonnet-4-6",
+    "usermodel": "claude-sonnet-4-6",
+    "narrative": "claude-sonnet-4-6",
+    "artifacts": "claude-sonnet-4-6",
+    "eval_gen": "claude-haiku-4-5-20251001"
+  },
+  "embed_model": "BAAI/bge-small-en-v1.5",
+  "rerank_model": "Xenova/ms-marco-MiniLM-L-6-v2"
 }
