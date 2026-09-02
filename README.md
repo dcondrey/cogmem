@@ -1,19 +1,14 @@
-<!-- mcp-name: io.github.writerslogic/cogmem -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/writerslogic/cogmem/main/assets/logo-spin.gif" width="200" alt="cogmem">
-</p>
+<!-- repo-header:start -->
+<img src="https://raw.githubusercontent.com/writerslogic/cogmem/main/assets/logo-spin.gif" alt="cogmem logo" width="120" align="left">
 
-# cogmem
+<h1>cogmem</h1>
 
-[![CI](https://github.com/writerslogic/cogmem/actions/workflows/ci.yml/badge.svg)](https://github.com/writerslogic/cogmem/actions/workflows/ci.yml)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/writerslogic/cogmem/badge)](https://scorecard.dev/viewer/?uri=github.com/writerslogic/cogmem)
-[![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org)
-[![MCP](https://img.shields.io/badge/MCP-compatible-7c3aed.svg)](https://modelcontextprotocol.io)
-[![cogmem MCP server](https://glama.ai/mcp/servers/writerslogic/cogmem/badges/score.svg)](https://glama.ai/mcp/servers/writerslogic/cogmem)
-[![W3C Verifiable Credentials](https://img.shields.io/badge/W3C-Verifiable%20Credentials-005a9c.svg)](https://www.w3.org/TR/vc-data-model-2.0/)
-[![SCITT](https://img.shields.io/badge/IETF-SCITT--style%20log-005a9c.svg)](https://datatracker.ietf.org/wg/scitt/about/)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![local-first recall](https://img.shields.io/badge/local--first-recall%20runs%20on%20your%20machine-111827.svg)](#privacy)
+<p><strong>A self-improving, verifiable memory layer for AI coding agents.</strong></p>
+
+<br clear="left">
+
+[![CI](https://img.shields.io/github/actions/workflow/status/dcondrey/cogmem/publish.yml?style=flat-square&labelColor=20232a&branch=main&label=CI)](https://github.com/dcondrey/cogmem/actions/workflows/publish.yml) [![CodeQL](https://img.shields.io/github/actions/workflow/status/dcondrey/cogmem/codeql.yml?style=flat-square&labelColor=20232a&branch=main&label=CodeQL)](https://github.com/dcondrey/cogmem/actions/workflows/codeql.yml) [![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/dcondrey/cogmem?style=flat-square&labelColor=20232a&label=OpenSSF)](https://securityscorecards.dev/viewer/?uri=github.com/dcondrey/cogmem) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14401/badge)](https://www.bestpractices.dev/projects/14401) [![License](https://img.shields.io/github/license/dcondrey/cogmem?style=flat-square&labelColor=20232a&color=007ec6&label=license)](https://github.com/dcondrey/cogmem/blob/main/LICENSE) [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-Contributor%20Covenant%202.1-6a4c93?style=flat-square&labelColor=20232a)](https://github.com/dcondrey/cogmem/blob/main/CODE_OF_CONDUCT.md) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a)](https://github.com/sponsors/dcondrey)
+<!-- repo-header:end -->
 
 **A self-improving, verifiable memory layer for AI coding agents.**
 
