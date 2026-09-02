@@ -1,4 +1,14 @@
-# A verifiable AI-agent identity in a C2PA Content Credential
+<!-- repo-header:start -->
+<img src="https://github.com/dcondrey.png?size=160" alt="A verifiable AI-agent identity in a C2PA Content Credential logo" width="120" align="left">
+
+<h1>A verifiable AI-agent identity in a C2PA Content Credential</h1>
+
+<p><strong>Documentation for A verifiable AI-agent identity in a C2PA Content Credential in Cogmem.</strong></p>
+
+<br clear="left">
+
+[![CI](https://img.shields.io/github/actions/workflow/status/dcondrey/cogmem/publish.yml?style=flat-square&labelColor=20232a&branch=main&label=CI)](https://github.com/dcondrey/cogmem/actions/workflows/publish.yml) [![CodeQL](https://img.shields.io/github/actions/workflow/status/dcondrey/cogmem/codeql.yml?style=flat-square&labelColor=20232a&branch=main&label=CodeQL)](https://github.com/dcondrey/cogmem/actions/workflows/codeql.yml) [![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/dcondrey/cogmem?style=flat-square&labelColor=20232a&label=OpenSSF)](https://securityscorecards.dev/viewer/?uri=github.com/dcondrey/cogmem) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14401/badge)](https://www.bestpractices.dev/projects/14401) [![License](https://img.shields.io/github/license/dcondrey/cogmem?style=flat-square&labelColor=20232a&color=007ec6&label=license)](https://github.com/dcondrey/cogmem/blob/main/LICENSE) [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-Contributor%20Covenant%202.1-6a4c93?style=flat-square&labelColor=20232a)](https://github.com/dcondrey/cogmem/blob/main/CODE_OF_CONDUCT.md) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a)](https://github.com/sponsors/dcondrey)
+<!-- repo-header:end -->
 
 This is a **real, signed C2PA manifest** in which an AI agent (the cogmem agent) is a
 first-class, cryptographically verifiable named actor — via the **standard CAWG Identity
